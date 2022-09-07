@@ -12,3 +12,5 @@ A bit special : depending on conditions, it will display possible case with the 
 **Final result :** Failed (because of the 3 first test case ^^) (+0 pts)
 
 I did not even tried to solve the others problems (because it was hard)
+
+I was 9302th World and 17th France
